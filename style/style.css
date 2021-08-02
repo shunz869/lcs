@@ -2696,7 +2696,7 @@ ol.features-list li p
 /* --- backgrounds --- */
 body .background-1
 {
-	background-image: url('../images/samples/960x750/placeholder.jpg');
+	background-image: url('../images/home/about_us.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -2708,7 +2708,7 @@ body .background-2
 }
 body .background-3
 {
-	background-image: url('../images/samples/960x750/placeholder.jpg');
+	background-image: url('../images/home/office.jpg');
 	background-size: cover;
 	background-position: center;
 }
