@@ -2702,7 +2702,7 @@ body .background-1
 }
 body .background-2
 {
-	background-image: url('../images/samples/960x750/placeholder.jpg');
+	background-image: url('../images/home/about_us.jpg');
 	background-size: cover;
 	background-position: center;
 }
@@ -2778,7 +2778,7 @@ body .background-6
 }
 .parallax-4
 {
-	background-image: url('../images/samples/1920x1200/placeholder.jpg');
+	background-image: url('../images/slider/slider_4.jpg');
 }
 .parallax,
 .parallax h2,
